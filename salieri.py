@@ -1,3 +1,6 @@
+# фласк окружение неделя 1 шаг 3-4
+
+
 from flask import Flask
 app = Flask(__name__)
 @app.route('/')
